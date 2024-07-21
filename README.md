@@ -1,7 +1,7 @@
 <h1 align="center">I'm Matheus</h1>
 <h3 align="center">sleeper dev from Brazil</h3>
 
-- 🔭 I’m currently working on [Anoto](https://github.com/Anoto-ecossistem)
+- 🔭 I’m currently working on [Anoto](https://github.com/Anoto-ecossistem)--[NewJourney](https://github.com/orgs/armjscom/teams/newjourney)
 
 - 🌱 I’m currently learning **Python**
 
