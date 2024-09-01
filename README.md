@@ -1,5 +1,5 @@
 <h1 align="center">Matheus Alves Pereira da Silva / Math</h1>
-<h3 align="center">sleeper dev from Brazil</h3>
+<h3 align="center">dev from Brazil</h3>
 
 - 🔭 I’m currently working on [Anoto](https://github.com/Anoto-ecossistem)--[NewJourney](https://github.com/orgs/armjscom/teams/newjourney)
 
