@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Anoto](https://github.com/Anoto-ecossistem)--[NewJourney](https://github.com/orgs/armjscom/teams/newjourney)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and PHP**
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
