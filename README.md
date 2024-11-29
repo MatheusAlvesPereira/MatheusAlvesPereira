@@ -1,4 +1,4 @@
-<h1 align="center">Matheus Alves Pereira da Silva / Math</h1>
+<h1 align="center">Matheus Alves Pereira da Silva</h1>
 <h3 align="center">Developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Anoto](https://github.com/Anoto-ecossistem)
