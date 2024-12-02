@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Anoto](https://github.com/Anoto-ecossistem)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**,**Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript**, **Python**
 
 - 📫 How to reach me **matheusalvessilvabr@gmail.com**
 
