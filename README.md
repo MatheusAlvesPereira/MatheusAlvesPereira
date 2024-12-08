@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Anoto](https://github.com/Anoto-ecossistem)
 
-- 🌱 I’m currently learning **Java**,**Kotlin**
+- 🌱 I’m currently learning **AWS**, **TDD**, , **DDD**
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
