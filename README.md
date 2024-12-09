@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
-- 💬 Ask me about **Javascript**, **Python**, **React**, **Vue.js**, **Astrojs**
+- 💬 Ask me about **Javascript**, **Python**, **React**, **Nextjs**, **Vue.js**, **Astrojs**
 
 - 📫 How to reach me **matheusalvessilvabr@gmail.com**
 
