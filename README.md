@@ -1,9 +1,9 @@
 <h1 align="center">Matheus Alves Pereira da Silva</h1>
-<h3 align="center">Developer from Brazil</h3>
+<h3 align="center">Front-end Developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Anoto](https://github.com/Anoto-ecossistem)
 
-- 🌱 I’m currently learning **AWS**, **TDD**, , **DDD**
+- 🌱 I’m currently learning **AWS**, **TDD**, **DDD**
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
