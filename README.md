@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Anoto](https://github.com/Anoto-ecossistem) | [Real Cripto](https://realcripto.com.br/)
 
-- 🌱 I’m currently learning  **AWS**
+- 🌱 I’m currently learning  **AWS**,  **php zend framework** 
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
