@@ -1,5 +1,5 @@
 <h1 align="center">Matheus Alves Pereira da Silva</h1>
-<h3 align="center">Front-end Developer from Brazil</h3>
+<h3 align="center">PHP Developr from Brazil</h3>
 
 - 🔭 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem) | [Real Cripto](https://realcripto.com.br/)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
-- 💬 Ask me about **php**, **React**, **Nextjs**, **Vue.js**, **Astrojs**
+- 💬 Ask me about **php**
 
 - 📫 How to reach me **matheusalvessilvabr@gmail.com**
 
