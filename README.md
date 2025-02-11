@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
-- 💬 Ask me about **php**
+- 💬 Ask me about **php**, **Javascript**
 
 - 📫 How to reach me **matheusalvessilvabr@gmail.com**
 
