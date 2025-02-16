@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem) | [Real Cripto](https://realcripto.com.br/)
 
-- 🌱 I’m currently learning  **AWS**, **PHP Zend framework**, **Laravel**, **PHP 8**, **PHP 7**, **NGINX**, **Docker**, **Docker Compose**
+- 💻 Working with **AWS**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**
+
+- 🌱 I’m currently learning **Laravel**, **NGINX**, **Docker**, **Docker Compose**
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
