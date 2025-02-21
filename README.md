@@ -5,11 +5,11 @@
 
 - 💻 Working with **AWS**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**
 
-- 🌱 I’m currently learning **Laravel**, **NGINX**, **Docker**, **Docker Compose**
+- 🌱 I’m currently learning **Kotlin** **Mobile Android Development**, **NGINX**, **Docker**, **Docker Compose**
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
-- 💬 Ask me about **php**, **Javascript**,
+- 💬 Ask me about **php**, **Javascript**, **Kotlin**
 
 - 📫 How to reach me **matheusalvessilvabr@gmail.com**
 
