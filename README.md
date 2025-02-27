@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem) | [Real Cripto](https://realcripto.com.br/)
 
-- 💻 Working with **AWS**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**
+- 💻 Working with **AWS**, **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**
 
 - 🌱 I’m currently learning **Kotlin**,**Mobile Android Development**, **NGINX**, **Docker**, **Docker Compose**
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
-- 💬 Ask me about **php**, **Javascript**, **Kotlin**
+- 💬 Ask me about **php**
 
 - 📫 How to reach me **matheusalvessilvabr@gmail.com**
 
