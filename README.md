@@ -5,7 +5,7 @@
 
 - 💻 Working with **AWS**, **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**
 
-- 🌱 I’m currently learning **Kotlin**,**Mobile Android Development**, **NGINX**, **Docker**, **Docker Compose**
+- 🌱 I’m currently learning **Flutter**, **Kotlin**, **Mobile Android Development**, **NGINX**, **Docker**, **Docker Compose**
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
