@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem) | [Real Cripto](https://realcripto.com.br/)
 
-- 💻 Working with **AWS**, **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**
+- 💻 Working with **AWS**, **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**
 
 - 🌱 I’m currently learning **Flutter**, **Kotlin**, **Mobile Android Development**, **NGINX**, **Docker**, **Docker Compose**
 
