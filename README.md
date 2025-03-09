@@ -18,4 +18,5 @@
 <a href="https://www.linkedin.com/in/matheus-alves-4a2b03231" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-alves-4a2b03231" height="30" width="40" /></a>
 </p>
 
-[Codewars](https://www.codewars.com/users/MatheusAlvesPereira)
+[Codewars](https://www.codewars.com/users/MatheusAlvesPereira)<br>
+[LeetCode](https://leetcode.com/u/MatheusAlvesPereira/)
