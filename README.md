@@ -5,7 +5,7 @@
 
 - 💻 Working with **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**, **Docker Compose**
 
-- 🌱 I’m currently learning **software engineering positions**, **Python**, **Django** **AWS**, **NGINX**, 
+- 🌱 I’m currently learning **software engineering positions**, **Python**, **Django**, **AWS**, **NGINX**, 
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
