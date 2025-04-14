@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem) 
 
-- 💻 Working with **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**, **Docker Compose**
+- 💻 Working with **PHP**, **Angular**, 
+- 💻 Tech Stack: **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**, **Docker Compose**
 
 - 🌱 I’m currently learning **software engineering positions**, **Java**, **Spring boot**, **Kotlin** , **Python**, **Django**, **AWS**, **NGINX**, 
 
