@@ -7,7 +7,7 @@
   
 - 💻 Tech Stack: **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**, **Docker Compose**, **JAVA** **Spring Boot**, **Kotlin**
 
-- 🌱 I’m currently learning **software engineering positions**, **Java**, **Spring boot**, **Kotlin** , **AWS**, **NGINX**, 
+- 🌱 I’m currently learning **software engineering positions**, **AWS**, **NGINX**, 
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
