@@ -5,7 +5,7 @@
 
 - 💻 Working with **PHP**
   
-- 💻 Tech Stack: **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**, **Docker Compose**, **JAVA**, **Kotlin**
+- 💻 Tech Stack: **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**, **Docker Compose**, **JAVA** **Spring Boot**, **Kotlin**
 
 - 🌱 I’m currently learning **software engineering positions**, **Java**, **Spring boot**, **Kotlin** , **AWS**, **NGINX**, 
 
