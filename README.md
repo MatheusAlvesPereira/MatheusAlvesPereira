@@ -1,13 +1,15 @@
 <h1 align="center">Matheus Alves</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem) 
+- 💻 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem)
 
 - 💻 Working with **PHP**
   
 - 💻 Tech Stack: **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**, **Docker Compose**, **JAVA** **Spring Boot**, **Kotlin**, **SQL SERVER**, **SQLITE**
 
-- 🌱 I’m currently learning **software engineering positions**, **AWS**, **NGINX**, 
+- 🔭 Looking for **software engineering positions**
+
+- 🌱 I’m currently learning **AWS**, **NGINX**, 
 
 - 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
 
