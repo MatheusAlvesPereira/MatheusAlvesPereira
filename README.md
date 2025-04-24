@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS**, **NGINX**, **Node.js** 
 
-- 👨‍💻 All of my projects are available at [portifolio](portifolio-chi-orpin-12.vercel.app)
+- 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
 - 💬 Ask me about **PHP**
 
