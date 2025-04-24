@@ -5,13 +5,13 @@
 
 - 💻 Working with **PHP**
   
-- 💻 Tech Stack: **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**, **Docker Compose**, **JAVA** **Spring Boot**, **Kotlin**, **SQL SERVER**, **SQLITE**
+- 💻 Tech Stack: **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**,**Node.js** **Docker Compose**, **SQL SERVER**, **SQLITE**
 
 - 🔭 Looking for **software engineering positions**
 
-- 🌱 I’m currently learning **AWS**, **NGINX**, 
+- 🌱 I’m currently learning **AWS**, **NGINX**, **Node.js** 
 
-- 👨‍💻 All of my projects are available at [https://portifolio-personal-astro.vercel.app/](https://portifolio-personal-astro.vercel.app/)
+- 👨‍💻 All of my projects are available at [portifolio](portifolio-chi-orpin-12.vercel.app)
 
 - 💬 Ask me about **PHP**
 
