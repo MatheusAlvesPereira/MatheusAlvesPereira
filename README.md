@@ -9,7 +9,7 @@
 
 - 🔭 Looking for **software engineering positions**
 
-- 🌱 I’m currently learning **AWS**, **NGINX**, **Node.js**, **Express**, **Nestjs**, **ruby**, **Ngrok**
+- 🌱 I’m currently learning **AWS**, **NGINX**, **Node.js**, **Express**, **Nestjs**, **ruby**, **Ngrok**, **MongoBD**, **Redis**
 
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
