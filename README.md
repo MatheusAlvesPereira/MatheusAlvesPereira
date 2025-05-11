@@ -3,17 +3,17 @@
 
 - 💻 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem)
 
-- 💻 Working with **PHP**
+- 💻 Working with **PHP**, **Node.js**
   
 - 💻 Tech Stack: **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**,**Node.js** **Docker Compose**, **SQL SERVER**, **SQLITE**
 
 - 🔭 Looking for **software engineering positions**
 
-- 🌱 I’m currently learning **AWS**, **NGINX**, **Node.js**, **Express**, **Nestjs**, **ruby**, **Ngrok**, **MongoBD**, **Redis**
+- 🌱 I’m currently learning **AWS**, **NGINX**, **Express**, **Nestjs**, **Ngrok**, **MongoBD**, **Redis**
 
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **PHP**, **Node.js**
 
 - 📫 How to reach me **matheusalvessilvabr@gmail.com**
 
