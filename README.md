@@ -5,7 +5,7 @@
 
 - 💻 Working with **PHP**, **Node.js**
   
-- 💻 Tech Stack: **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**,**Node.js** **Docker Compose**, **SQL SERVER**, **SQLITE**, **Next.js**, **Typescript**
+- 💻 Tech Stack: **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**,**Node.js** **Docker Compose**, **SQL SERVER**, **SQLITE**, **Next.js**, **Typescript**, **Linux Mint**
 
 - 🔭 Looking for **software engineering positions**
 
