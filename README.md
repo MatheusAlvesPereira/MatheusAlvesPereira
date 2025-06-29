@@ -5,11 +5,11 @@
 
 - 💻 Working with **Kotlin**, **Java**
   
-- 💻 Tech Stack: **PHP Laravel**, **PHP Zend Framework**, **PHP 8**, **PHP 7**, **PHP 5.6**, **MVC**, **Docker**, **Node.js**, **Docker Compose**, **SQL SERVER**, **SQLITE**, **Next.js**, **Typescript**, **Linux Mint**
+- 💻 Tech Stack: **Kotlin**, **MVC**, **Docker**, **AWS**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
 
 - 🔭 Looking for **software engineering positions**
 
-- 🌱 I’m currently learning **Java**, **Kotlin** **OAUTH 2.0**, **AWS**, **NGINX**, **Express**, **Nestjs**, **Ngrok**, **MongoBD**, **Redis** 
+- 🌱 I’m currently learning **Kotlin Multiplataform**, **Kotlin Android** 
 
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
