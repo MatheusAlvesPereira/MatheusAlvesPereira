@@ -7,8 +7,6 @@
   
 - 💻 Tech Stack: **Kotlin**, **MVC**, **Docker**, **AWS**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
 
-- 🔭 Looking for **software engineering positions**
-
 - 🌱 I’m currently learning **Kotlin Multiplataform**, **Kotlin Android** 
 
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
