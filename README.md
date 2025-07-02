@@ -3,12 +3,12 @@
 
 - 💻 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem)
 
-- 💻 Working with **Kotlin**, **Java**
+- 💻 Working with **PHP**, **Node.js**
   
-- 💻 Tech Stack: **Kotlin**, **MVC**, **Docker**, **AWS**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
+- 💻 Tech Stack: **PHP**, **MVC**, **Docker**, **AWS**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
 
-- 🌱 I’m currently learning **Kotlin Multiplataform**, **Kotlin Android** 
-
+- 🌱 I’m currently learning **PHP**
+  
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
 - 💬 Ask me about **PHP**, **Node.js**
