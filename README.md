@@ -7,7 +7,7 @@
   
 - 💻 Tech Stack: **PHP**, **MVC**, **Docker**, **AWS**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **AWS EC2**
   
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
