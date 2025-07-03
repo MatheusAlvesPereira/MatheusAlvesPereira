@@ -5,7 +5,7 @@
 
 - 💻 Working with **PHP**, **Node.js**
   
-- 💻 Tech Stack: **PHP**, **MVC**, **Docker**, **AWS CLOUD**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
+- 💻 Tech Stack: **Node.js**, **PHP**, **MVC**, **Docker**, **AWS CLOUD**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
 
 - 🌱 I’m currently learning **AWS SQS**
   
