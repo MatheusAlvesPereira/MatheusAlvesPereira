@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem)
 
-- 💻 Working with **PHP**, **Node.js**
+- 💻 Working with **Node.js**, **PHP**
   
 - 💻 Tech Stack: **Node.js**, **PHP**, **MVC**, **Docker**, **AWS CLOUD**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
 
