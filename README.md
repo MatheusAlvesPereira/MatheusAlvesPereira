@@ -7,7 +7,7 @@
   
 - 💻 Tech Stack: **Node.js**, **PHP**, **MVC**, **Docker**, **AWS CLOUD**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
 
-- 🌱 I’m currently learning **AWS SQS**
+- 🌱 I’m currently learning **MongoDB**, **AWS SQS**
   
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
