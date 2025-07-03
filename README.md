@@ -5,9 +5,9 @@
 
 - 💻 Working with **PHP**, **Node.js**
   
-- 💻 Tech Stack: **PHP**, **MVC**, **Docker**, **AWS**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
+- 💻 Tech Stack: **PHP**, **MVC**, **Docker**, **AWS CLOUD**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
 
-- 🌱 I’m currently learning **AWS EC2**
+- 🌱 I’m currently learning **AWS SQS**
   
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
