@@ -7,7 +7,7 @@
   
 - 💻 Tech Stack: **Node.js**, **PHP**, **MVC**, **Docker**, **AWS CLOUD**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
 
-- 🌱 I’m currently learning **Grafana**, **OAuth**, **MongoDB**, **AWS SQS**
+- 🌱 I’m currently learning **Grafana**, **MongoDB**, **AWS SQS**, **Kafka**
   
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
