@@ -11,7 +11,7 @@
   
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
-- 💬 Ask me about **Node.js**,**Node.js**,**Go**
+- 💬 Ask me about **Node.js**, **Go**
 
 - 📫 How to reach me **matheusalvessilvabr@gmail.com**
 
