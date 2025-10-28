@@ -5,7 +5,7 @@
 
 - 💻 Working with **Node.js**
   
-- 💻 Tech Stack: **Node.js**, **Express**, **MVC**, **Docker**, **AWS CLOUD**, **SQL SERVER**, **Next.js**, **Typescript**, **Linux**
+- 💻 Tech Stack: **Node.js**, **Express**, **MVC**, **Docker**, **AWS CLOUD**, **SQL SERVER**, **Next.js**, **TypeScript**,
 
 - 🌱 I’m currently learning **Go**, **Koltin**, **Grafana**, **MongoDB**, **AWS SQS**, **Kafka**, **GraphQL**
   
