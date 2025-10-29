@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[Youtube](https://www.youtube.com/@matheusSphynx) <br>
 [Linkedin](https://www.linkedin.com/in/matheus-alves-4a2b03231)<br>
 [Codewars](https://www.codewars.com/users/MatheusAlvesPereira)<br>
 [LeetCode](https://leetcode.com/u/MatheusAlvesPereira/)<br>
