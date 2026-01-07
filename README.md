@@ -3,11 +3,11 @@
 
 - 💻 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem)
 
-- 💻 Working with **Node.js**, **Kotlin**, **Java**
+- 💻 Working with **Java** 
   
-- 💻 Tech Stack: **Node.js**, **Express**, **MVC**, **Docker**, **AWS CLOUD**, **SQL SERVER**, **Next.js**, **TypeScript**,
+- 💻 Tech Stack: **Java**, **Node**, **Kotlin**
 
-- 🌱 I’m currently learning **Java**, **Grafana**, **MongoDB**, **AWS SQS**, **Kafka**, **GraphQL**
+- 🌱 I’m currently learning **Grafana**, **MongoDB**, **GraphQL**
   
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
