@@ -2,8 +2,6 @@
 <h3 align="center">Software Engineer</h3>
 
 - 💻 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem)
-
-- 💻 Working with **Java** 
   
 - 💻 Tech Stack: **Java**, **Node**, **Kotlin**
 
