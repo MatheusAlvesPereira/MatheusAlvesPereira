@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem)
   
-- 💻 Tech Stack: **Java**, **Node**, **Kotlin**
+- 💻 Tech Stack: **Java**, **Kotlin**
 
 - 🌱 I’m currently learning **Grafana**, **MongoDB**, **GraphQL**
   
