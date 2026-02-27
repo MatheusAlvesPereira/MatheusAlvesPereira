@@ -1,9 +1,9 @@
 <h1 align="center">Matheus Alves</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 💻 I’m currently working on [FutebolCard](https://www.futebolcard.com/) | [Anoto](https://github.com/Anoto-ecossistem)
+- 💻 I’m currently working on [TradeToWord](https://tradeto.world/)
   
-- 💻 Tech Stack: **Java**, **Kotlin**
+- 💻 Tech Stack: **Node.js**, **Typescript** , **Next.js**
 
 - 🌱 I’m currently learning **Grafana**, **MongoDB**, **GraphQL**
   
