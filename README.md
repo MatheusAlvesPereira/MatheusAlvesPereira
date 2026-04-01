@@ -3,9 +3,9 @@
 
 - 💻 I’m currently working on [TradeToWord](https://tradeto.world/)
   
-- 💻 Tech Stack: **Node.js**, **Typescript** , **Next.js**
+- 💻 Tech Stack: **Node.js**, **Typescript** , **Next.js**, **AWS**
 
-- 🌱 I’m currently learning **Grafana**, **MongoDB**, **GraphQL**
+- 🌱 I’m currently learning: **Grafana**, **Design Patterns**, [Refactoring Guru](https://refactoring.guru)
   
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-chi-orpin-12.vercel.app/)
 
